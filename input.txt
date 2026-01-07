@@ -1,0 +1,5 @@
+Hello, you can contact us at support@example.com
+For HR queries: hr.company@gmail.com
+Send feedback to feedback@mywebsite.org
+Random text without email
+Another mail: test_user123@yahoo.in
