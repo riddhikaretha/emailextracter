@@ -1,0 +1,6 @@
+Email Extraction Summary
+------------------------------
+Input file: input.txt
+Output file: extracted_emails.txt
+Total emails found: 4
+Unique emails extracted: 4
